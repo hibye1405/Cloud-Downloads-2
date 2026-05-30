@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9003",
+  "folder": "Movies__video_20260530163008_740bc0",
+  "base_name": "Movies__video_20260530163008_740bc0.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-2/releases/tag/co-releases-v1-9003",
+  "files": [
+    {
+      "name": "Movies__video_20260530163008_740bc0.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-2/releases/download/co-releases-v1-9003/Movies__video_20260530163008_740bc0.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-2/releases/assets/433888169",
+      "id": 433888169,
+      "size": 258775144,
+      "download_count": 0
+    }
+  ]
+}
